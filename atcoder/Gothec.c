@@ -1,10 +1,3 @@
-
-// January 7
-// March 3
-// May 5
-// July 7
-// September 9
-
 #include <stdio.h>
 #include <stdlib.h>
 
