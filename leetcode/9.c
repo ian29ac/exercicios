@@ -6,8 +6,8 @@ bool isPalindrome(int x) {
     
     if (x<0) return false;
 
-    int contrario = 0;
-    int pedaco = x;
+    long contrario = 0;
+    long pedaco = x;
     int digito;
 
     while ( pedaco > 0 ) {
